@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Accenture Brasil**
-- ⚙️ I use daily: `.jar`, `.py`,`.js`,`.html`, `.css`, `.sql` 
+- ⚙️ I use daily: `.jar`, `.py`, `.js`, `.html`, `.css`, `.sql` 
 - 🌍 I'm mostly active within the **Java**, but i'm fall in love by Python
 - 🌱 Learning about **Software Engineering**, **Data Structures**, **Algorithm**, **Machine Learning** and anothers I.T stuffs.
 - 💬 Ping me about **Software Development**, **IA**, **Linux's distros**
